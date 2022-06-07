@@ -7,7 +7,7 @@
     "types": [
       "node"
     ],
-    "module": "node12",
+    "module": "node16",
     "target": "es2021",
     "esModuleInterop": true,
     "allowSyntheticDefaultImports": true,
